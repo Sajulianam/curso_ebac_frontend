@@ -63,7 +63,7 @@ section h2,
 }
 
 .articles article a {
-    background-color: blue;
+    background-color: rgb(235, 114, 130);
     color: #fff;
     padding: 8px;
     display: inline-block;
@@ -88,19 +88,19 @@ section h2{
     font-size: 32px;
 }
 
-#sports {
-    background-color: rgb(180, 247, 180);
+#entertainment {
+    background-color: rgb(255, 187, 97);
 
 }
 
-#sports .articles article a {
-    background-color: #009432;
+#entertainment .articles article a {
+    background-color: #df6119;
 }
 
-#economy{
-    background-color: #f5f3ca;
+#technology {
+    background-color: #eb9aa7;
 }
 
-#economy .articles article a{
-    background-color: #ff9f1a;
+#technology .articles article a{
+    background-color: #df4760;
 }
