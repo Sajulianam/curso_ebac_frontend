@@ -1,7 +1,8 @@
 ﻿# curso_ebac_frontend 
 
->Criar um repositório no Github, por exemplo: curso_ebac_frontend;
+A entrega desse exercício consiste em:
 
->Criar uma branch chamada exercicio_git no repositório recém-criado;
+Criar mais duas seções no layout criado durante o módulo, por exemplo: entretenimento e tecnologia, as novas seções devem conter outras notícias e diferentes cores;
 
->Na branch exercício_git deverá ser adicionado um arquivo nome.txt com o seu nome completo;
+
+Enviar os arquivos para o Github em uma branch chamada exercício_css;
