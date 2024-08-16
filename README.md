@@ -1,7 +1,1 @@
-﻿# curso_ebac_frontend 
-
->Criar um repositório no Github, por exemplo: curso_ebac_frontend;
-
->Criar uma branch chamada exercicio_git no repositório recém-criado;
-
->Na branch exercício_git deverá ser adicionado um arquivo nome.txt com o seu nome completo;
+Exercicios da plataforma EBAC do curso  Engenheiro Front-end.
