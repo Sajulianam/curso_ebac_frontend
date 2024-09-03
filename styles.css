@@ -1,0 +1,94 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    height: 120vh;
+}
+
+.img{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: inherit;
+    width: 15%;
+}
+
+.formulario {
+    flex: 2;
+    padding: 0;
+    border-radius: 8px;
+    max-width: 400px;
+    background-color: #F2EA77;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    width: 70%;
+    flex-direction:column;
+    gap:30px;
+    
+}
+
+
+.container h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:xx-large;
+    font-weight: bolder;
+    color: #212426;
+    align-items: center;
+    margin-top: 20px;
+    gap:20px
+    
+}
+
+#taskform{
+    margin-bottom: 10px;
+    padding: 10px;
+    flex-direction: column;
+    cursor: pointer;
+    
+}
+
+input{
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+    cursor: pointer;
+}
+
+input:placeholder-shown {
+    border: 3px dotted tomato;
+    
+}
+
+input:hover{
+    box-decoration-break: none;
+
+}
+
+button{
+    background-color: #ef8538;
+    border: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    color:rgb(227, 245, 84);
+    cursor: pointer;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: rgb(248, 4, 4);
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
